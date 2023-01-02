@@ -12,7 +12,7 @@ Category.hasMany(Product, {
 // Products belongsTo Category
 Product.belongsTo(Category, {
   foreignKey: "category_id",
-  onDelete: "CASCADE",
+  onDelete: "SET NULL",
 });
 
 // Products belongToMany Tags (through ProductTag)
