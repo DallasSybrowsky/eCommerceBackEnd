@@ -31,7 +31,7 @@ router.get('/:id', async (req, res) => {
         {
           model: Product,
           // Need to ensure model and attributes are correct
-          attirbutes: ["id", "product_name", "price", "stock", "category_id"],
+          attributes: ["id", "product_name", "price", "stock", "category_id"],
         },
       ],
     });

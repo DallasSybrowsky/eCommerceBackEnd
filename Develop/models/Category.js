@@ -1,7 +1,6 @@
 const { Model, DataTypes } = require("sequelize");
-
 const sequelize = require("../config/connection.js");
-// console.log(sequelize);
+
 class Category extends Model {}
 
 Category.init(
@@ -26,5 +25,5 @@ Category.init(
     modelName: "category",
   }
 );
-Category.create({ category_name: "tuna fish" });
+
 module.exports = Category;
