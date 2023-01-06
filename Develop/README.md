@@ -4,9 +4,9 @@
 
 ## Description
 
-This is a sample backend setup for an ecommerce application. A link to view the video demonstrating the functionality is linked [here](https://drive.google.com/file/d/1yuPEt3HLoTogk3HNnwp1o-ojXPPLTCaM/view)
+This is a sample backend setup for an ecommerce application. A link to view the video demonstrating the functionality is linked [here](https://drive.google.com/file/d/1yuPEt3HLoTogk3HNnwp1o-ojXPPLTCaM/view).
 
-The code in its entirety can be viewed at the following [link](https://github.com/DallasSybrowsky/eCommerceBackEnd)
+The code in its entirety can be viewed by clicking [here](https://github.com/DallasSybrowsky/eCommerceBackEnd).
 
 
 ## Table of Contents
