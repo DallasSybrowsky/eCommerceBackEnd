@@ -26,7 +26,7 @@ This project is the original work of Dallas Sybrowsky. More of my work is availa
 
 ## Usage
 
-Install dependencies, seed the database, the nmake changes as you see fit.
+Install dependencies, seed the database, then utilize the database and make changes as you see fit.
 
 ## Installation
 
